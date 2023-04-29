@@ -1,0 +1,14 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    text-align: center;
+  }
+  
+  body {
+    background: hsl(0, 0%, 100%);
+    min-height: 100vh;
+    display: grid;
+    place-items: center;
+  }
+  

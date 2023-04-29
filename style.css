@@ -63,6 +63,22 @@ p.item {
   line-height: 1.75;
 }
 
-.annual::before {
+/************************
+***Annual plan section***
+*************************/
+
+.price {
+  
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.price::before {
   content: url("./images/icon-music.svg");
+  margin-right: 1rem;
+}
+
+#change {
+  margin: auto 0 auto auto;
 }

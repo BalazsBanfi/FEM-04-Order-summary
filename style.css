@@ -56,7 +56,7 @@ h1 {
 }
 
 .item {
-  margin: 1rem;
+  margin: 0.8rem 1rem;
 }
 
 .price {
@@ -68,9 +68,9 @@ h1 {
 *****************************/
 
 p.item {
-  padding: 0 1rem;
+  padding: 0 0.5rem;
   color: hsla(224, 23%, 55%, 0.8);
-  font-size: 1rem;
+  font-size: 0.9rem;
   font-weight: 700;
   line-height: 1.85;
 }

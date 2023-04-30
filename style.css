@@ -1,5 +1,4 @@
 * {
-  border: 1px solid red;
   margin: 0px;
   padding: 0px;
   box-sizing: border-box;
@@ -141,7 +140,7 @@ p.item {
 }
 
 .button:active {
-  box-shadow: box-shadow: 5px 20px 20px hsla(245, 75%, 52%, 0.15);
+  box-shadow: 5px 20px 20px hsla(245, 75%, 52%, 0.15);
   transform: translateY(3px);
 }
 

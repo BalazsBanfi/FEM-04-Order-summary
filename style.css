@@ -17,11 +17,12 @@ body {
   background-repeat: no-repeat;
   display: grid;
   place-items: center;
+  margin: 0px;
 }
 
 main {
   width: 375px;
-  padding: 3.5rem 1.5rem;
+  padding: 3.5rem 1rem 0rem;
   display: grid;
   place-items: center;
 }
@@ -45,18 +46,18 @@ main {
 
 .summary {
   background-color: white;
-  padding: 1rem;
+  padding: 1.25em 1rem;
   display: flex;
   flex-direction: column;
 }
 
 h1 {
-  font-size: 1.3rem;
+  font-size: 1.5rem;
   font-weight: 900;
 }
 
 .item {
-  margin: 0.8rem 1rem;
+  margin: 0.7rem 1rem;
 }
 
 .price {
@@ -70,7 +71,7 @@ h1 {
 p.item {
   padding: 0 0.5rem;
   color: hsla(224, 23%, 55%, 0.8);
-  font-size: 0.9rem;
+  font-size: 1em;
   font-weight: 700;
   line-height: 1.85;
 }
@@ -117,7 +118,6 @@ p.item {
   cursor: pointer;
 }
 
-
 /*******************
 ***Payment button***
 ********************/
@@ -130,7 +130,7 @@ p.item {
   background: hsl(245, 75%, 52%);
   box-shadow: 5px 20px 20px hsla(245, 75%, 52%, 0.15);
   border-radius: 11px;
-  padding: 0.8rem;
+  padding: 0.9rem;
   transition-duration: 0.4s;
 }
 

@@ -20,7 +20,7 @@ This is a solution to the [Product preview card challenge on Frontend Mentor](ht
 
 ### Screenshot
 
-![Screenshot](./images/screenshotMobil.jpg)
+![Screenshot](./images/screenshotMobile.jpg)
 ![Screenshot](./images/screenshotDesktop.jpg)
 
 

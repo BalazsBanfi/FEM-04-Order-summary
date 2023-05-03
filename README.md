@@ -1,4 +1,3 @@
-# FEM-04-Order-summary
 # Frontend Mentor - Order summary solution
 
 This is a solution to the [Product preview card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
@@ -26,8 +25,8 @@ This is a solution to the [Product preview card challenge on Frontend Mentor](ht
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/BalazsBanfi/FEM-04-Order-summary)
-- Live Site URL: [Add live site URL here](https://balazsbanfi.github.io/FEM-04-Order-summary/)
+- Solution URL: [Solution URL](https://github.com/BalazsBanfi/FEM-04-Order-summary)
+- Live Site URL: [Live site url](https://balazsbanfi.github.io/FEM-04-Order-summary/)
 
 ## My process
 
